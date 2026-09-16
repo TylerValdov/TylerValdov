@@ -8,7 +8,7 @@ but not limited to Cloud Development, AI & Machine Learning, and Full-Stack Web 
 
 ## 🚀 Projects
 
-### [Backtester](https://github.com/TylerValdov/backtester)
+### [Backtester](https://github.com/TylerValdov/backtester) [Live Link](https://www.strategytester.me)
 A quantitative backtesting and live paper-trading platform. FastAPI (Python 3.13) backend + Node 22 frontend, running entirely offline on 16 years of deterministic synthetic OHLCV data until real market data is configured.
 - Alpha signal library: momentum (SMA crossover, RSI, MACD, breakouts) and mean reversion (z-score, Bollinger Bands, pairs spreads), plus custom/ML signal hooks
 - Event-driven backtest engine with weekly/monthly rebalancing, long-only/long-short/signal-weighted sizing, and FIFO trade matching
